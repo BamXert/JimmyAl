@@ -94,3 +94,7 @@ header {
 	background-color: rgba(40,55,71,0.7);
 }
 
+iframe ,.pdf{
+	width: 90%;
+	height:80vh ;
+}
